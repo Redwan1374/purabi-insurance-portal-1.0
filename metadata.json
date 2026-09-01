@@ -1,0 +1,7 @@
+{
+  "name": "Purabi General Insurance",
+  "description": "Official responsive website for Purabi General Insurance Co. Ltd. (PGICL) featuring Home, Health Insurance, and About Us pages.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
